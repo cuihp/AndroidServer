@@ -3,7 +3,7 @@
 
   2. 实现Android OS 作为服务器、客户端，进行Socket通讯
 
-  3. 结合[HotWiFi项目](https://jitpack.io/#cuihp/AndroidServer)，手机架设热点进行通讯
+  3. 结合[HotWiFi项目](https://github.com/cuihp/HotWiFi)，手机架设热点进行通讯
 
 # How to
 
