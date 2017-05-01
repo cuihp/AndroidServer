@@ -8,8 +8,9 @@ public class ServerConfig {
     private int port;
     private int readBufferSize;
     private long connectionTimeout;
-
-
+    private int maxReadBufferSize;
+    private int minReadBufferSize;
+    private int wiiteTimeout;
 
 
     public int getPort() {

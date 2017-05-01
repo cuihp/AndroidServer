@@ -60,6 +60,7 @@ public class MinaClient {
         this.clientStateListener = clientStateListener;
     }
 
+    
     public MinaClient(ClientConfig mConfig) {
         this.mConfig = mConfig;
         mConnectThread = new ConnectThread();

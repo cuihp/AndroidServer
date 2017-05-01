@@ -20,7 +20,7 @@ allprojects {
 * Step 2. Add the dependency
 ```
 dependencies {
-	compile 'com.github.cuihp:AndroidServer:-SNAPSHOT'
+	 compile 'com.github.cuihp:AndroidServer:v1.0.0'
 }
 ```
 
